@@ -8,8 +8,8 @@ and local residents with empty driveways can trade with each other.
 Project Name: Demo
 
 Team Members:
-Andrew Mutz ([@mqchau](https://github.com/mqchau))  
-![mqchau photo](http://imgur.com/nvNhcuL)
+Quan Chau ([@mqchau](https://github.com/mqchau))  
+![mqchau photo](http://i.imgur.com/nvNhcuL.jpg?1)
 
 Pivotal Tracker Link:
 [PivotalTracker](https://www.pivotaltracker.com/n/projects/1446698) 
