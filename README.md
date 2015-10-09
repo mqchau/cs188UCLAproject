@@ -9,7 +9,7 @@ Project Name: Demo
 
 Team Members:
 Quan Chau ([@mqchau](https://github.com/mqchau))  
-![mqchau photo](http://i.imgur.com/nvNhcuL.jpg?1 =200)
+![mqchau photo](http://i.imgur.com/nvNhcuL.jpg?1 =200x)
 
 Pivotal Tracker Link:
 [PivotalTracker](https://www.pivotaltracker.com/n/projects/1446698) 
