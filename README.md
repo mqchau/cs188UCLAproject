@@ -9,7 +9,7 @@ Project Name: Demo
 
 Team Members:
 Andrew Mutz ([@mqchau](https://github.com/mqchau))  
-![mqchau photo](https://drive.google.com/file/d/0B1uLPPfFtrlMaFY5emxLTjFiZW8/view?usp=sharing)
+![mqchau photo](http://imgur.com/nvNhcuL)
 
 Pivotal Tracker Link:
 [PivotalTracker](https://www.pivotaltracker.com/n/projects/1446698) 
